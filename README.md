@@ -44,7 +44,7 @@ WebHawk/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WebHawk.git
+git clone https://github.com/SonU1001/WebHawk.git
 cd WebHawk
 pip install -r requirements.txt
 ```
