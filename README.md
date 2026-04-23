@@ -78,10 +78,8 @@ Use safe targets:
 
 ## 📸 Screenshots
 
-> Add screenshots of:
->
-> * Terminal output
-> * HTML report
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/945ce56d-795f-4d0b-be3a-2edbc9fbc263" />
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/8bd836b6-1188-4615-8387-ec7095039c6e" />
 
 ---
 
